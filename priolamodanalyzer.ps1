@@ -140,7 +140,7 @@ Write-Log ""
 
 Write-Host "[2/4] Scanning mods folder..." -ForegroundColor Yellow
 Write-Log "[2/4] MODS FOLDER SCAN"
-$mods_path = "$\AppData\Roaming\Minecraft\mods
+$mods_path = "$mods_path
 if (Test-Path $mods_path) {
     $jar_files = @(Get-ChildItem -Path $mods_path -Filter "*.jar" -Recurse -ErrorAction SilentlyContinue)
     if ($jar_files) {
