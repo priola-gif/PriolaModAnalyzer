@@ -837,13 +837,13 @@ function Check-ModrinthMod {
     
     return $results
 }
-                            }
-                        }
-                    }
+                            
+                        
+                    
                     
                     if ($results.Official) { break }
-                }
-            }
+                
+            
         } else {
             $results.Details += "⚠ Mod not found on Modrinth (possible fake/private)"
             $results.Suspicious = $true
