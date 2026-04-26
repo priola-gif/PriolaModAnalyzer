@@ -35,7 +35,6 @@ $FULLWIDTH_PATTERNS = @(
     "Ｃ．ｌｉｃｋ", "Ｃ．ｒｙｓｔａｌ", "Ｄ．ｏｕｂｌｅ", "Ｅ．ｘｐｌｏｄｅ",
     "Ｆ．ｏｒｃｅ", "Ｈ．ｏｖｅｒ", "Ｔ．ｏｔｅｍ", "Ａ．ｎｔｉ",
     "Ａ．ｃｔｉｖａｔｅ Ｋｅｙ", "Ａ．ｎｃｈｏｒ Ｍａｃｒｏ"
-)
 
 $CURSEFORGE_CHEAT_MODS = @(
     "freecam", "noclip", "xray", "autototem", "autopotion",
